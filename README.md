@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m Jason
+- 👀 I’m interested in programming, raspberry pi pico, micro:bit
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ...
+
 <!--
 **jthorpe4/jthorpe4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
